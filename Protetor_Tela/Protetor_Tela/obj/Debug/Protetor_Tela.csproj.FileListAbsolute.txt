@@ -8,3 +8,13 @@ C:\Users\iagui\OneDrive\Documentos\Codigos C#\Protetor_Tela\Protetor_Tela\obj\De
 C:\Users\iagui\OneDrive\Documentos\Codigos C#\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.csproj.CoreCompileInputs.cache
 C:\Users\iagui\OneDrive\Documentos\Codigos C#\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.exe
 C:\Users\iagui\OneDrive\Documentos\Codigos C#\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.pdb
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\bin\Debug\Protetor_Tela.exe.config
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\bin\Debug\Protetor_Tela.exe
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\bin\Debug\Protetor_Tela.pdb
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.csproj.AssemblyReference.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.Form1.resources
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.Properties.Resources.resources
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.csproj.GenerateResource.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.csproj.CoreCompileInputs.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.exe
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\Atividade 1\Protetor_Tela\Protetor_Tela\obj\Debug\Protetor_Tela.pdb
