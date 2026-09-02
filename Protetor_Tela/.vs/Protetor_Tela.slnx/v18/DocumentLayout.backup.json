@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iagui\\OneDrive\\Documentos\\Codigos C#\\Protetor_Tela\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94714393-B7B2-4ABF-81FB-906CC2FB78BB}|Protetor_Tela\\Protetor_Tela.csproj|c:\\users\\iagui\\onedrive\\documentos\\codigos c#\\protetor_tela\\protetor_tela\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94714393-B7B2-4ABF-81FB-906CC2FB78BB}|Protetor_Tela\\Protetor_Tela.csproj|solutionrelative:protetor_tela\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94714393-B7B2-4ABF-81FB-906CC2FB78BB}|Protetor_Tela\\Protetor_Tela.csproj|c:\\users\\iagui\\onedrive\\documentos\\codigos c#\\protetor_tela\\protetor_tela\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94714393-B7B2-4ABF-81FB-906CC2FB78BB}|Protetor_Tela\\Protetor_Tela.csproj|solutionrelative:protetor_tela\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\iagui\\OneDrive\\Documentos\\Codigos C#\\Protetor_Tela\\Protetor_Tela\\Form1.cs",
+              "RelativeDocumentMoniker": "Protetor_Tela\\Form1.cs",
+              "ToolTip": "C:\\Users\\iagui\\OneDrive\\Documentos\\Codigos C#\\Protetor_Tela\\Protetor_Tela\\Form1.cs*",
+              "RelativeToolTip": "Protetor_Tela\\Form1.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T01:01:00.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iagui\\OneDrive\\Documentos\\Codigos C#\\Protetor_Tela\\Protetor_Tela\\Form1.cs",
+              "RelativeDocumentMoniker": "Protetor_Tela\\Form1.cs",
+              "ToolTip": "C:\\Users\\iagui\\OneDrive\\Documentos\\Codigos C#\\Protetor_Tela\\Protetor_Tela\\Form1.cs [Design]*",
+              "RelativeToolTip": "Protetor_Tela\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T00:59:27.455Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

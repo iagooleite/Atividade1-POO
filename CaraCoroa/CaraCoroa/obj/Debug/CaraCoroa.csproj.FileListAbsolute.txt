@@ -1,0 +1,10 @@
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\bin\Debug\CaraCoroa.exe.config
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\bin\Debug\CaraCoroa.exe
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\bin\Debug\CaraCoroa.pdb
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.csproj.AssemblyReference.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.Form1.resources
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.Properties.Resources.resources
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.csproj.GenerateResource.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.csproj.CoreCompileInputs.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.exe
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.pdb
