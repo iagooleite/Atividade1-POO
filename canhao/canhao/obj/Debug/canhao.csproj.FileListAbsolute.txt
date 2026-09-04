@@ -1,0 +1,10 @@
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\bin\Debug\canhao.exe.config
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\bin\Debug\canhao.exe
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\bin\Debug\canhao.pdb
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\obj\Debug\canhao.csproj.AssemblyReference.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\obj\Debug\canhao.Form1.resources
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\obj\Debug\canhao.Properties.Resources.resources
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\obj\Debug\canhao.csproj.GenerateResource.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\obj\Debug\canhao.csproj.CoreCompileInputs.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\obj\Debug\canhao.exe
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\canhao\canhao\obj\Debug\canhao.pdb

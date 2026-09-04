@@ -1,0 +1,10 @@
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\bin\Debug\pedido_namoro.exe.config
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\bin\Debug\pedido_namoro.exe
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\bin\Debug\pedido_namoro.pdb
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\obj\Debug\pedido_namoro.csproj.AssemblyReference.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\obj\Debug\pedido_namoro.Form1.resources
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\obj\Debug\pedido_namoro.Properties.Resources.resources
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\obj\Debug\pedido_namoro.csproj.GenerateResource.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\obj\Debug\pedido_namoro.csproj.CoreCompileInputs.cache
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\obj\Debug\pedido_namoro.exe
+C:\Users\iagui\OneDrive\Documentos\Codigos C#\pedido_namoro\pedido_namoro\obj\Debug\pedido_namoro.pdb
